@@ -13,3 +13,10 @@
     margin-top: 60px;
     margin-bottom: 40px;
 }
+.card:hover{
+    opacity: 0.5;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
